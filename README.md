@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi guys! 👋
 
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
 <!--
 **jas0n555/jas0n555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
